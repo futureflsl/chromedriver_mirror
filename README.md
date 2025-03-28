@@ -2,6 +2,14 @@ win64系统支持的chromedriver
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>chromedriver-win64_136.0.7095.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5xq">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7094.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5xp">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7093.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5ty">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7092.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5tx">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7091.2.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5tw">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7091.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5tv">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7090.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5tu">下载</a></td></tr>
+<tr><td>chromedriver-win64_136.0.7089.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaal5tt">下载</a></td></tr>
 <tr><td>chromedriver-win64_136.0.7088.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaZl5tx">下载</a></td></tr>
 <tr><td>chromedriver-win64_136.0.7087.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaZl5tw">下载</a></td></tr>
 <tr><td>chromedriver-win64_136.0.7086.0.zip</td><td><a href="https://mbd.pub/o/bread/aJaZl5tv">下载</a></td></tr>
