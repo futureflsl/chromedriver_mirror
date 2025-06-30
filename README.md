@@ -2,6 +2,43 @@ win64系统支持的chromedriver
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>chromedriver-win64_140.0.7268.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pbA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7267.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55paw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7266.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pag==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7265.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55paQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7264.3.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55paA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7264.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pZw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7263.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pZg==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7262.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pZQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7261.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm55pZA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7260.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51ybQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7259.2.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51ybA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_140.0.7259.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yaw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7258.6.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yag==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7258.5.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yaQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7258.2.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yaA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7258.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yZw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7257.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yZg==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7256.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yZQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7255.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51yZA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7254.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xbQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7253.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xbA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7252.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xaw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7251.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xag==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7250.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xaQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7249.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xaA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7248.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xZw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7247.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xZg==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7246.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xZQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7245.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51xZA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7244.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wbQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7243.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wbA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7242.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51waw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7241.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wag==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7239.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51waQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7238.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51waA==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7237.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wZw==">下载</a></td></tr>
+<tr><td>chromedriver-win64_139.0.7236.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wZg==">下载</a></td></tr>
 <tr><td>chromedriver-win64_139.0.7234.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxag==">下载</a></td></tr>
 <tr><td>chromedriver-win64_139.0.7233.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxaQ==">下载</a></td></tr>
 <tr><td>chromedriver-win64_139.0.7232.3.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxaA==">下载</a></td></tr>
@@ -33,6 +70,8 @@ win64系统支持的chromedriver
 <tr><td>chromedriver-win64_139.0.7207.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUk51qZg==">下载</a></td></tr>
 <tr><td>chromedriver-win64_139.0.7206.2.zip</td><td><a href="https://mbd.pub/o/bread/YZWUk51qZQ==">下载</a></td></tr>
 <tr><td>chromedriver-win64_139.0.7205.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUk51qZA==">下载</a></td></tr>
+  <tr><td>chromedriver-win64_138.0.7204.49.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wZQ==">下载</a></td></tr>
+<tr><td>chromedriver-win64_138.0.7204.35.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51wZA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_138.0.7204.23.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxbQ==">下载</a></td></tr>
 <tr><td>chromedriver-win64_138.0.7204.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUk51pbA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_138.0.7204.2.zip</td><td><a href="https://mbd.pub/o/bread/YZWUk51paw==">下载</a></td></tr>
@@ -85,6 +124,7 @@ win64系统支持的chromedriver
 <tr><td>chromedriver-win64_138.0.7155.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWTk59uaA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_138.0.7153.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWTk59uZw==">下载</a></td></tr>
 <tr><td>chromedriver-win64_138.0.7152.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWTk59uZg==">下载</a></td></tr>
+  <tr><td>chromedriver-win64_137.0.7151.119.zip</td><td><a href="https://mbd.pub/o/bread/YZWUm51vbQ==">下载</a></td></tr>
 <tr><td>chromedriver-win64_137.0.7151.104.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl55pbA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_137.0.7151.70.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxbA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_137.0.7151.69.zip</td><td><a href="https://mbd.pub/o/bread/YZWUl5lxaw==">下载</a></td></tr>
