@@ -2,6 +2,7 @@ win64系统支持的chromedriver
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>chromedriver-win64_143.0.7499.110.zip</td><td><a href="https://mbd.pub/o/bread/YZWZmpZtZw==">下载</a></td></tr>
 <tr><td>chromedriver-win64_143.0.7499.41.zip</td><td><a href="https://mbd.pub/o/bread/YZWZmJdwZA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_142.0.7444.176.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk51xZA==">下载</a></td></tr>
 <tr><td>chromedriver-win64_142.0.7444.163.zip</td><td><a href="https://mbd.pub/o/bread/YZWYm59tbQ==">下载</a></td></tr>
